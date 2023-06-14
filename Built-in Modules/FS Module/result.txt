@@ -1,0 +1,1 @@
+Here is the result of the two file(this is created automatically): Adding new text in test file + This is text file 2Here is the result of the two file(this is created automatically): Adding new text in test file + This is text file 2
